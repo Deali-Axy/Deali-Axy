@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 DealiAxy
 
+[![](https://img.shields.io/badge/StarBlog博客-曦远-blug)](http://blog.deali.cn)
 [![](https://img.shields.io/badge/微信公众号-程序设计实验室-brightgreen.svg)](https://github.com/Deali-Axy/deali-axy.github.io/blob/master/index.assets/qrcode_for_gh_fb62c9c48c90_860.jpg)
 [![](https://img.shields.io/badge/Blog-blog.deali.cn-brightgreen.svg)](https://blog.deali.cn)
 [![](https://img.shields.io/badge/知乎专栏-程序设计实验室-blug)](https://www.zhihu.com/column/deali)
