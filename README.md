@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [StarBlog](https://github.com/Deali-Axy/StarBlog)
 - 🌱 I’m currently learning [AspNetCore](https://github.com/Deali-Axy/AspNetCore-Learning-WebApi) and [Django](https://github.com/Deali-Axy/DjangoStarter)
 - 👯 I’m looking to collaborate on [Django development framework](https://github.com/Deali-Axy/DjangoStarter)
-- 💬 Ask me about C#, Python, Flutter, Kotlin...
+- 💬 Ask me about C#, Python, Go, Flutter, Kotlin...
 - 📫 How to reach me: [welcome to my blog](http://blog.deali.cn)
 - 😄 Pronouns: Star Painter
 - ⚡ Fun fact: [PoemNote App](https://github.com/Deali-Axy/PoemNote)
